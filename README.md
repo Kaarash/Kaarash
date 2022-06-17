@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaarash
+- 👋 Hi, I’m Kaaweh Rash from Kaarash Academy!
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning web developig.
 - 💞️ I’m looking to collaborate on web developing projects.
